@@ -1,7 +1,7 @@
 # Insights-Failed-Orders
 Skills: Python, Pandas, Numpy
 
-Datasource: https://platform.stratascratch.com/data-projects/insights-failed-orders
+Datasource: StratScratch
 
 This data project has been used as a take-home assignment in the recruitment process for the data science positions at Gett.
 
